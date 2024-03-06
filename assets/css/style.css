@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(154, 146, 146, 0.055);
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+span {
+    color: rgb(255, 187, 1)
+}
+
+a,
+h2 {
+    color: rgb(255, 187, 1);
+    text-decoration: none;
+}
